@@ -47,6 +47,7 @@ const siteList = [
     'ebay.ch',
     'ebay.co.uk',
     'etsy.com',
+    'gamestop.com',
     'walmart.com',
     'macys.com',
     'staples.com',
