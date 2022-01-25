@@ -98,6 +98,5 @@ const siteList = [
     'ilva.dk',
     'jysk.dk',
     'fnac.fr',
-    'store.steampowered.com',
-    ''
+    'store.steampowered.com'
 ]
