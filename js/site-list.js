@@ -97,5 +97,7 @@ const siteList = [
     'bauhaus.dk',
     'ilva.dk',
     'jysk.dk',
-    'fnac.fr'
+    'fnac.fr',
+    'store.steampowered.com',
+    ''
 ]
